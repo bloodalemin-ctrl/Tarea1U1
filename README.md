@@ -53,3 +53,27 @@ Para ejecutar este proyecto de manera local, siga estos pasos:
 
 
   <img width="354" height="784" alt="image" src="https://github.com/user-attachments/assets/09e0bb31-5242-4103-ad90-92e4f10e5504" />
+
+
+
+Texto
+ Campos
+ 
+ Nombre
+  <img width="373" height="776" alt="image" src="https://github.com/user-attachments/assets/932609ba-8c50-4569-bc53-2ff9513dddd2" />
+Contrasenia
+
+<img width="385" height="791" alt="image" src="https://github.com/user-attachments/assets/a7ed6a67-7965-460c-9bc7-a086bc2665c1" />
+
+Correo
+
+<img width="369" height="776" alt="image" src="https://github.com/user-attachments/assets/107c755a-523a-433f-b9a1-d13af4cb8550" />
+
+Celular
+
+<img width="355" height="773" alt="image" src="https://github.com/user-attachments/assets/a5285cbf-82ad-40b6-bade-656c5460db19" />
+
+Comentarios
+
+<img width="367" height="797" alt="image" src="https://github.com/user-attachments/assets/709a1627-8f0b-4421-982d-3f15f8055d09" />
+
